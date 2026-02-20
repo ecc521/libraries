@@ -1,5 +1,7 @@
 # JavaScript Function Libraries
 
+These libraries are not actively maintained. You're welcome to use them (and the code should still be accurate, since RSA hasn't really changed since it was invented), but I make no guarantees as to accuracy. 
+
 ## About the Libraries
 
 ### random.js
